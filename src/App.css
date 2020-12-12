@@ -1,0 +1,40 @@
+img {
+  height: 150px;
+  width: 160px;
+  border-radius: 50%;
+  border-style: ridge;
+  object-fit: cover;
+}
+
+.mesi {
+  text-align: center;
+}
+.button1 {
+  float: left;
+}
+.button2 {
+  float: right;
+}
+h3 {
+  color: rgb(252, 32, 76);
+  text-transform: capitalize;
+}
+h4 {
+  color: rgb(156, 52, 4);
+  text-transform: capitalize;
+}
+button:hover {
+  background-color: rgb(126, 176, 233);
+}
+
+.center {
+  margin: auto;
+  width: 40%;
+  border: 3px solid rgb(157, 176, 196);
+  padding: 10px;
+  background-color: rgba(234, 243, 250, 0.911);
+  border-width: 30px;
+}
+body {
+  background-color: rgba(202, 202, 214, 0.959);
+}
